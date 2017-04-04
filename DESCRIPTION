@@ -7,9 +7,9 @@ Author: Thomas Leja [cre], Michael Schaub
 Maintainer: Thomas Leja <thomas.leja@gmail.com>
 Date: 2017-04-02
 License: GPL-2
-Depends: R (>= 3.1)
-Imports: Rcpp (>= 0.12.10), rexpokit (>= 0.24.1), doSNOW (>= 1.0.14), parallel, reshape2
-Suggests: rCharts, RCurl, RJSONIO, scales, visNetwork (>= 1.0.3)
+Depends: R (>= 3.2)
+Imports: Rcpp (>= 0.12.10), rexpokit (>= 0.24.1), doSNOW (>= 1.0.14), snow, parallel, reshape2,  RCurl, RJSONIO, scales, visNetwork (>= 1.0.3)
+Suggests: rCharts
 LinkingTo: Rcpp, RcppArmadillo
 NeedsCompilation: yes
 URL: https://github.com/tleja/StabilityR
