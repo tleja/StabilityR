@@ -44,8 +44,8 @@ Visualise the graph
 
 ```coffee
 net = forceAtlas2(mat=mat, iterations=4000, plotstep=10, seed=4, ksmax=100)
-
 plotNetwork(mat=mat, pos=net, group=res2$P[,55])
 ```
+
 ***
 … more detailed documentation is coming soon.
