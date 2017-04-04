@@ -1,0 +1,16 @@
+Package: StabilityR
+Type: Package
+Version: 0.1
+Title: Network inference, partitioning and visualisation.
+Description: The StabilityR package performs community detection using the stability of a graph partition.
+Author: Thomas Leja [cre], Michael Schaub
+Maintainer: Thomas Leja <thomas.leja@gmail.com>
+Date: 2017-04-02
+License: GPL-2
+Depends: R (>= 3.1)
+Imports: Rcpp (>= 0.12.10), rexpokit (>= 0.24.1), doSNOW (>= 1.0.14), parallel, reshape2
+Suggests: rCharts, RCurl, RJSONIO, scales, visNetwork (>= 1.0.3)
+LinkingTo: Rcpp, RcppArmadillo
+NeedsCompilation: yes
+URL: https://github.com/tleja/StabilityR
+BugReports: https://github.com/tleja/StabilityR/issues
