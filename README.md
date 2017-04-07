@@ -48,4 +48,4 @@ plotNetwork(mat=mat, pos=net, group=res2$P[,55])
 ```
 
 ***
-… more detailed documentation is coming soon.
+See `?stability` for more information. More detailed documentation is coming soon.
