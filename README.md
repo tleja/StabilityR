@@ -5,8 +5,10 @@ A systems biology tool for network inference, partitioning and visualisation.
 
 ### Prerequisites
 
+* **Unix systems (Linux/Mac) are currently supported.** The Windows-friendly version will be realeased soon.
 * LEMON graph library version 1.3.1: [http://lemon.cs.elte.hu/trac/lemon/wiki/Downloads](http://lemon.cs.elte.hu/trac/lemon/wiki/Downloads)
-* Windows users, Rtools: [http://cran.r-project.org/bin/windows/Rtools](https://cran.r-project.org/bin/windows/Rtools)
+
+[//]: # (Windows users, Rtools: [http://cran.r-project.org/bin/windows/Rtools](https://cran.r-project.org/bin/windows/Rtools))
 
 ### Installation 
 
@@ -48,4 +50,4 @@ plotNetwork(mat=mat, pos=net, group=res2$P[,55])
 ```
 
 ***
-See `?stability` for more information. More detailed documentation is coming soon.
+See `?stability` for more information.
