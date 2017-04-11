@@ -5,7 +5,7 @@ A systems biology tool for network inference, partitioning and visualisation.
 
 ### Prerequisites
 
-* **Unix systems (Linux/Mac) are currently supported.** The Windows-friendly version will be realeased soon.
+* Unix systems (Linux/Mac) are currently supported. The Windows-friendly version will be realeased soon.
 * LEMON graph library version 1.3.1: [http://lemon.cs.elte.hu/trac/lemon/wiki/Downloads](http://lemon.cs.elte.hu/trac/lemon/wiki/Downloads)
 
 [//]: # (Windows users, Rtools: https://cran.r-project.org/bin/windows/Rtools)
